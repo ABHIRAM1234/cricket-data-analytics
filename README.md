@@ -24,6 +24,8 @@ The Cricket Data Analytics🏏 project was made using the T-20 Cricket World Cup
 
 ---
 
+Link to the dashboard: [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/e15c4c06-bc2a-4012-b768-98acff4e5b42/ReportSection3a8cb23b814911c94608?experience=power-bi)
+
 # Screenshots of the Dashboard:
 
 ![power_hitters_and_openers](https://user-images.githubusercontent.com/81465377/211144386-48070a65-7e8b-4370-af44-121b878b554b.jpg)
